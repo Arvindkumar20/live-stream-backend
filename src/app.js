@@ -5,7 +5,7 @@ import overlayRoutes from "./routes/overlayRoutes.js";
 const app = express();
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://staging.yourapp.com",
+  "https://melodic-sopapillas-872b8d.netlify.app/",
   "https://yourapp.com"
 ];
 
